@@ -17,7 +17,7 @@ Retrieve the following information from the API call:
 - Wind speed
 - Weather description
 
-![WeatherPy_Database](https://github.com/assaci/World_Weather_Analysis/Weather_Database/blob/main/WeatherPy_Database.csv?raw=true)
+![WeatherPy_Database](https://github.com/assaci/World_Weather_Analysis/blob/main/Weather_Database/WeatherPy_Database.csv?raw=true)
 
 
 ![WeatherPy_database](https://github.com/assaci/World_Weather_Analysis/blob/main/Weather_Database/Weather_database.PNG?raw=true)
@@ -26,12 +26,18 @@ Retrieve the following information from the API call:
 
 Retrieve customer weather preferences, then use those preferences to identify potential travel destinations and nearby hotels. 
 
-![WeatherPy_vacation](https://github.com/assaci/World_Weather_Analysis/Vacation_Search/blob/WeatherPy_vacation.csv?raw=true)
+![WeatherPy_vacation](https://github.com/assaci/World_Weather_Analysis/blob/Vacation_Search/WeatherPy_vacation.csv?raw=true)
 
-![WeatherPy_vacation_map](https://github.com/assaci/Vacation_Search/blob/main/WeatherPy_vacation_map.png?raw=true)
+![WeatherPy_vacation_map](https://github.com/assaci/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.png?raw=true)
 
 ## Travel Itinerary Map 
 
 Use the Google Directions API to create a travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations. Then, create a marker layer map with a pop-up marker for each city on the itinerary.
 
-![pict_1](https://github.com/assaci/Pyber_Analysis/blob/main/pict_1.PNG?raw=true)
+![marker_for_each_city](https://github.com/assaci/World_Weather_Analysis/blob/main/Vacation_Itinerary/marker_for_each_city.PNG?raw=true)
+
+![WeatherPy_travel_map](https://github.com/assaci/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.PNG?raw=true)
+
+![df_itine_4_cities](https://github.com/assaci/World_Weather_Analysis/blob/main/Vacation_Itinerary/df_itine_4_cities.PNG?raw=true)
+
+![WeatherPy_travel_map_markers](https://github.com/assaci/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.PNG?raw=true)
