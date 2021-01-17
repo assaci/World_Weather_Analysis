@@ -17,7 +17,10 @@ Retrieve the following information from the API call:
 - Wind speed
 - Weather description
 
-![pict_1](https://github.com/assaci/Pyber_Analysis/blob/main/pict_1.PNG?raw=true)
+![WeatherPy_Database](https://github.com/assaci/World_Weather_Analysis/Weather_Database/blob/main/WeatherPy_Database.csv?raw=true)
+
+
+![WeatherPy_database](https://github.com/assaci/World_Weather_Analysis/Weather_Database/blob/main/Weather_database.PNG?raw=true)
 
 ## Create a customer Travel Destinations Map 
 
@@ -25,7 +28,7 @@ Retrieve customer weather preferences, then use those preferences to identify po
 
 ![WeatherPy_Database](https://github.com/assaci/World_Weather_Analysis/WeatherPy_Database/blob/WeatherPy_Database.csv?raw=true)
 
-![pict_1](https://github.com/assaci/Pyber_Analysis/blob/main/pict_1.PNG?raw=true)
+![pict_1](https://github.com/assaci/Pyber_Analysis/blob/main/Weather_database.PNG?raw=true)
 
 ## Travel Itinerary Map 
 
