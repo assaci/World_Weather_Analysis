@@ -20,15 +20,15 @@ Retrieve the following information from the API call:
 ![WeatherPy_Database](https://github.com/assaci/World_Weather_Analysis/Weather_Database/blob/main/WeatherPy_Database.csv?raw=true)
 
 
-![WeatherPy_database](https://github.com/assaci/World_Weather_Analysis/Weather_Database/blob/main/Weather_database.PNG?raw=true)
+![WeatherPy_database](https://github.com/assaci/World_Weather_Analysis/blob/main/Weather_Database/Weather_database.PNG?raw=true)
 
 ## Create a customer Travel Destinations Map 
 
 Retrieve customer weather preferences, then use those preferences to identify potential travel destinations and nearby hotels. 
 
-![WeatherPy_Database](https://github.com/assaci/World_Weather_Analysis/WeatherPy_Database/blob/WeatherPy_Database.csv?raw=true)
+![WeatherPy_vacation](https://github.com/assaci/World_Weather_Analysis/Vacation_Search/blob/WeatherPy_vacation.csv?raw=true)
 
-![pict_1](https://github.com/assaci/Pyber_Analysis/blob/main/Weather_database.PNG?raw=true)
+![WeatherPy_vacation_map](https://github.com/assaci/Vacation_Search/blob/main/WeatherPy_vacation_map.png?raw=true)
 
 ## Travel Itinerary Map 
 
